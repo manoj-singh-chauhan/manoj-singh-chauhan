@@ -50,7 +50,7 @@ API with authentication, product management, and JWT security.
 ---
 
 ## 📄 Resume  
-[![Resume](https://img.shields.io/badge/Download%20Resume-0078D4?style=for-the-badge&logo=readme&logoColor=white)](https://docs.google.com/document/d/1L63OXu-0Eq3aKmfhyxqtneDSTyYD5uE0fXiBpzIezkQ/edit?usp=sharing))
+[![Resume](https://img.shields.io/badge/Download%20Resume-0078D4?style=for-the-badge&logo=readme&logoColor=white)](https://docs.google.com/document/d/1L63OXu-0Eq3aKmfhyxqtneDSTyYD5uE0fXiBpzIezkQ/edit?usp=sharing)
 
 ---
 
