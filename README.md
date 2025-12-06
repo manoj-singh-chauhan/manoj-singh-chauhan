@@ -39,6 +39,7 @@ A system for managing teacher leaves, lecture adjustments, and schedule updates.
 ### 🤖 **AI Eval - AI Marks Evaluation Platform**
 Ek intelligent platform jo AI ka use karke students ke marks aur assignments evaluate karta hai. Isme background processing ke liye queuing system aur real-time updates ka feature hai.
 **Tech:** React,Node.js, MySQL, Socket.io, BullMQ
+
 🔗 [Repo](https://github.com/manoj-singh-chauhan/EvalAI)
 
 ### 🛒 **E-Commerce Backend API**
