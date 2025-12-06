@@ -29,7 +29,7 @@ I love exploring new tech stacks and turning ideas into functional projects.
 ### 🚀 **LinkedIn Clone**
 Full-stack social media platform with authentication, posts, comments, and real-time updates.  
 **Tech:** React, Node.js, MongoDB, Express, JWT  
-🔗 [Demo / Repo](https://github.com/manoj-singh-chauhan/Clone_LinkedIn)
+🔗 [Repo](https://github.com/manoj-singh-chauhan/Clone_LinkedIn)
 
 ### 🗂️ **Lecture Adjustment System**
 A system for managing teacher leaves, lecture adjustments, and schedule updates.  
@@ -50,7 +50,7 @@ API with authentication, product management, and JWT security.
 ---
 
 ## 📄 Resume  
-[![Resume](https://img.shields.io/badge/Download%20Resume-0078D4?style=for-the-badge&logo=readme&logoColor=white)](YOUR_RESUME_LINK_HERE)
+[![Resume](https://img.shields.io/badge/Download%20Resume-0078D4?style=for-the-badge&logo=readme&logoColor=white)](https://docs.google.com/document/d/1L63OXu-0Eq3aKmfhyxqtneDSTyYD5uE0fXiBpzIezkQ/edit?usp=sharing))
 
 ---
 
