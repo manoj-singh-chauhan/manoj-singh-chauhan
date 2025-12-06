@@ -29,7 +29,7 @@ I love exploring new tech stacks and turning ideas into functional projects.
 ### 🚀 **LinkedIn Clone**
 Full-stack social media platform with authentication, posts, comments, and real-time updates.  
 **Tech:** React, Node.js, MongoDB, Express, JWT  
-🔗 [Demo / Repo]()
+🔗 [Demo / Repo](https://github.com/manoj-singh-chauhan/EvalAI)
 
 ### 🗂️ **Lecture Adjustment System**
 A system for managing teacher leaves, lecture adjustments, and schedule updates.  
