@@ -45,7 +45,7 @@ A system for managing teacher leaves, lecture adjustments, and schedule updates.
 
 ### 🛒 **E-Commerce**
 API with authentication, product management, and JWT security.  
-**Tech:** Node.js, Express, MongoDB, JWT  
+**Tech:** Node.js, Express, MongoDB, JWT, React  
 🔗 [Repo](https://github.com/manoj-singh-chauhan/E-Commerce-)
 
 ---
