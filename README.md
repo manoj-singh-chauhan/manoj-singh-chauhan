@@ -26,23 +26,24 @@ I love exploring new tech stacks and turning ideas into functional projects.
 
 # ✨ Projects
 
-### 🚀 **LinkedIn Clone**
-Full-stack social media platform with authentication, posts, comments, and real-time updates.  
-**Tech:** React, Node.js, MongoDB, Express, JWT  
-🔗 [Repo](https://github.com/manoj-singh-chauhan/Clone_LinkedIn)
-
-### 🗂️ **Lecture Adjustment System**
-A system for managing teacher leaves, lecture adjustments, and schedule updates.  
-**Tech:** Node.js, Express, EJS, MongoDB  
-🔗 [Repo](https://github.com/manoj-singh-chauhan/teachers-schedule)
-
 ### 🤖 **AI Eval - AI Marks Evaluation Platform**
 Ek intelligent platform jo AI ka use karke students ke marks aur assignments evaluate karta hai. Isme background processing ke liye queuing system aur real-time updates ka feature hai.
 **Tech:** React,Node.js, MySQL, Socket.io, BullMQ
 
 🔗 [Repo](https://github.com/manoj-singh-chauhan/EvalAI)
 
-### 🛒 **E-Commerce Backend API**
+### 🚀 **LinkedIn Clone**
+Full-stack social media platform with authentication, posts, comments, and real-time updates.  
+**Tech:** React, Node.js, MongoDB, Express, JWT  
+🔗 [Repo](https://github.com/manoj-singh-chauhan/Clone_LinkedIn)
+
+### 🗂️ **scheduleSync - Lecture Adjustment System**
+A system for managing teacher leaves, lecture adjustments, and schedule updates.  
+**Tech:** Node.js, Express, EJS, MongoDB  
+🔗 [Repo](https://github.com/manoj-singh-chauhan/teachers-schedule)
+
+
+### 🛒 **E-Commerce**
 API with authentication, product management, and JWT security.  
 **Tech:** Node.js, Express, MongoDB, JWT  
 🔗 [Repo](https://github.com/manoj-singh-chauhan/E-Commerce-)
