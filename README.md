@@ -27,7 +27,7 @@ I love exploring new tech stacks and turning ideas into functional projects.
 # ✨ Projects
 
 ### 🤖 **AI Eval - AI Marks Evaluation Platform**
-Ek intelligent platform jo AI ka use karke students ke marks aur assignments evaluate karta hai. Isme background processing ke liye queuing system aur real-time updates ka feature hai.
+An intelligent platform that leverages AI to evaluate student assignments and marks. It features a queuing system for efficient background processing and supports real-time updates.
 **Tech:** React,Node.js, MySQL, Socket.io, BullMQ
 
 🔗 [Repo](https://github.com/manoj-singh-chauhan/EvalAI)
