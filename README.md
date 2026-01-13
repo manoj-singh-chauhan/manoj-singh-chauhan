@@ -1,5 +1,4 @@
 # 💫 About Me
-
 🔭 **Currently working on:**  
 Building web applications and improving backend features during my internship at CodeQuotient.
 
@@ -21,64 +20,38 @@ I love exploring new tech stacks and turning ideas into functional projects.
 ---
 
 ## 🌐 Socials
-
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/manojsingh-chauhan/)
-
-</div>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/manojsingh-chauhan/)
 
 ---
 
 # ✨ Projects
 
-<div align="center">
-
-### 🤖 AI Eval - AI Marks Evaluation Platform
+### 🤖 **AI Eval - AI Marks Evaluation Platform**
 An intelligent platform that leverages AI to evaluate student assignments and marks. It features a queuing system for efficient background processing and supports real-time updates.
+**Tech:** React,Node.js, MySQL, Socket.io, BullMQ
 
-**Tech:** React • Node.js • MySQL • Socket.io • BullMQ
+🔗 [Repo](https://github.com/manoj-singh-chauhan/EvalAI)
 
-[🔗 Repository](https://github.com/manoj-singh-chauhan/EvalAI)
+### 🚀 **LinkedIn Clone**
+Full-stack social media platform with authentication, posts, comments, and real-time updates.  
+**Tech:** React, Node.js, MongoDB, Express, JWT  
+🔗 [Repo](https://github.com/manoj-singh-chauhan/Clone_LinkedIn)
 
----
+### 🗂️ **scheduleSync - Lecture Adjustment System**
+A system for managing teacher leaves, lecture adjustments, and schedule updates.  
+**Tech:** Node.js, Express, EJS, MongoDB  
+🔗 [Repo](https://github.com/manoj-singh-chauhan/teachers-schedule)
 
-### 🚀 LinkedIn Clone
-Full-stack social media platform with authentication, posts, comments, and real-time updates.
 
-**Tech:** React • Node.js • MongoDB • Express • JWT
-
-[🔗 Repository](https://github.com/manoj-singh-chauhan/Clone_LinkedIn)
-
----
-
-### 🗂️ scheduleSync - Lecture Adjustment System
-A system for managing teacher leaves, lecture adjustments, and schedule updates.
-
-**Tech:** Node.js • Express • EJS • MongoDB
-
-[🔗 Repository](https://github.com/manoj-singh-chauhan/teachers-schedule)
+### 🛒 **E-Commerce**
+API with authentication, product management, and JWT security.  
+**Tech:** Node.js, Express, MongoDB, JWT, React  
+🔗 [Repo](https://github.com/manoj-singh-chauhan/E-Commerce-)
 
 ---
 
-### 🛒 E-Commerce
-API with authentication, product management, and JWT security.
-
-**Tech:** Node.js • Express • MongoDB • JWT • React
-
-[🔗 Repository](https://github.com/manoj-singh-chauhan/E-Commerce-)
-
-</div>
-
----
-
-## 📄 Resume
-
-<div align="center">
-
+## 📄 Resume  
 [![Resume](https://img.shields.io/badge/Download%20Resume-0078D4?style=for-the-badge&logo=readme&logoColor=white)](https://docs.google.com/document/d/1L63OXu-0Eq3aKmfhyxqtneDSTyYD5uE0fXiBpzIezkQ/edit?usp=sharing)
-
-</div>
 
 ---
 
@@ -123,41 +96,20 @@ API with authentication, product management, and JWT security.
 ---
 
 # 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=manoj-singh-chauhan&theme=dark&hide_border=false)
-
-![](https://nirzak-streak-stats.vercel.app/?user=manoj-singh-chauhan&theme=dark&hide_border=false)
-
+![](https://github-readme-stats.vercel.app/api?username=manoj-singh-chauhan&theme=dark&hide_border=false)  
+![](https://nirzak-streak-stats.vercel.app/?user=manoj-singh-chauhan&theme=dark&hide_border=false)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=manoj-singh-chauhan&theme=dark&hide_border=false&layout=compact)
-
-</div>
 
 ---
 
 ## 🏆 GitHub Trophies
-
-<div align="center">
-
 ![](https://github-profile-trophy.vercel.app/?username=manoj-singh-chauhan&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-</div>
 
 ---
 
 ### ✍️ Random Dev Quote
-
-<div align="center">
-
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-</div>
 
 ---
 
-<div align="center">
-
 [![](https://visitcount.itsvg.in/api?id=manoj-singh-chauhan&icon=7&color=7)](https://visitcount.itsvg.in)
-
-</div>
